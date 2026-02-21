@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+You set the inputs, the display shows decimal conversion.
 
 ## How to test
 
-Explain how to use your project
+Set inputs 1 and 2 - Display should read 3.
 
 ## External hardware
 
